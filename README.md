@@ -8,7 +8,6 @@ I'm open to new offers 💪
 [![Linkedin: Musa Bayramli https://www.linkedin.com/in/musa-bayramli-497b88254/)
 
 
-![GitHub stats](https://github.com/musabayramli)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=musabayramli&layout=compact&theme=gotham&custom_title=Statistics)  
 
 
