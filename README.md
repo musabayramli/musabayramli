@@ -6,7 +6,7 @@ I trust myself
 I'm open to new offers 💪
 
 [![Linkedin: Musa Bayramli https://www.linkedin.com/in/musa-bayramli-497b88254/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/rahimlisarkhan?label=follow&style=social)](https://github.com/rahimlisarkhan)
+
 
 ![GitHub stats](https://github.com/musabayramli)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=musabayramli&layout=compact&theme=gotham&custom_title=Statistics)  
